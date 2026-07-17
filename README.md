@@ -126,7 +126,7 @@ Both push toward the same idea: healthcare tech that's proactive instead of reac
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=Munaafifah&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+  <img src="https://github-profile-trophy-kannan.vercel.app/?username=Munaafifah&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F7C5CC&height=3&width=1000" width="100%"/>
