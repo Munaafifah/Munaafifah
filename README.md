@@ -25,22 +25,15 @@ I'm a **Software Engineering student at Universiti Teknologi Malaysia (UTM)**, g
 
 <br clear="right">
 
-```javascript
-const muna = {
-    pronouns: "She" | "Her",
-    location: "🇲🇾 Malaysia",
-    education: "UTM - Software Engineering",
-    graduating: "October 2026",
-    code: ["Java", "PHP", "JavaScript", "C++", "Dart", "Python", "COBOL"],
-    currentBuild: "WellCheck 🩺 — cross-platform health monitoring + AI prediction",
-    published: [
-        "AlzPredict — neural network for early Alzheimer's diagnosis",
-        "WellCheck — smart health monitoring management system"
-    ],
-    lookingFor: "Full-Stack / Front-End / Back-End roles, Aug 2026",
-    funFact: "I debug like I'm solving a mystery I caused myself 😆"
-};
-```
+<div align="center">
+
+![Graduating](https://img.shields.io/badge/🎓_Graduating-October_2026-F7C5CC?style=for-the-badge&labelColor=3A2A25)
+![Location](https://img.shields.io/badge/📍_Based_in-Malaysia-F7C5CC?style=for-the-badge&labelColor=3A2A25)
+![Building](https://img.shields.io/badge/🩺_Building-WellCheck-F7C5CC?style=for-the-badge&labelColor=3A2A25)
+![Published](https://img.shields.io/badge/📝_Published-2x_Research_Papers-F7C5CC?style=for-the-badge&labelColor=3A2A25)
+![Open to](https://img.shields.io/badge/🌱_Open_to-Full--Stack_Roles-F7C5CC?style=for-the-badge&labelColor=3A2A25)
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F7C5CC&height=3&width=1000" width="100%"/>
 
