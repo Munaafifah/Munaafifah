@@ -62,11 +62,17 @@ I'm a **Software Engineering student at Universiti Teknologi Malaysia (UTM)** wh
 
 ---
 
+## 🎓 Education
+
+- 🖥️ Bachelor's in Computer Science (Software Engineering), Hons — Universiti Teknologi Malaysia (2022–2026)
+- ⚙️ Diploma in Mechatronic Engineering — Japan Malaysia Technical Institute (JMTI), 2018–2021
+
 ## 🏆 Leadership & Involvement
 
 - 🎤 Vice Director, UTM x Hackathon '25 — PERSAKA
 - 🧩 Program Director, C++ Clinic '24 — PERSAKA
 - 📚 Exco Academic, PERSAKA (2024–2025)
+- 🏫 Bureau of Academic, Student Council — JMTI (2019–2021)
 
 ## 📝 Research
 
