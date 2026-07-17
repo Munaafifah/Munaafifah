@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=D88C9A&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Software+Engineering+Student+%F0%9F%8E%93;Cross-Platform+%26+AI+Developer+%F0%9F%A4%96;Building+WellCheck+%F0%9F%A9%BA" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=munaafifah&color=d88c9a&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Munaafifah&color=d88c9a&style=for-the-badge&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-d88c9a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munaafifah)
 
 </div>
@@ -24,6 +24,23 @@ I'm a **Software Engineering student at Universiti Teknologi Malaysia (UTM)**, g
 - 🌱 Open to **Full-Stack / Front-End / Back-End** roles from August 2026
 
 <br clear="right">
+
+```javascript
+const muna = {
+    pronouns: "She" | "Her",
+    location: "🇲🇾 Malaysia",
+    education: "UTM - Software Engineering",
+    graduating: "October 2026",
+    code: ["Java", "PHP", "JavaScript", "C++", "Dart", "Python", "COBOL"],
+    currentBuild: "WellCheck 🩺 — cross-platform health monitoring + AI prediction",
+    published: [
+        "AlzPredict — neural network for early Alzheimer's diagnosis",
+        "WellCheck — smart health monitoring management system"
+    ],
+    lookingFor: "Full-Stack / Front-End / Back-End roles, Aug 2026",
+    funFact: "I debug like I'm solving a mystery I caused myself 😆"
+};
+```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F7C5CC&height=3&width=1000" width="100%"/>
 
@@ -106,17 +123,17 @@ Both push toward the same idea: healthcare tech that's proactive instead of reac
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=munaafifah&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=d88c9a&icon_color=d88c9a&text_color=c9d1d9" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=munaafifah&theme=radical&hide_border=true&background=0D1117&ring=d88c9a&fire=d88c9a&currStreakLabel=d88c9a" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Munaafifah&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=d88c9a&icon_color=d88c9a&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Munaafifah&theme=radical&hide_border=true&background=0D1117&ring=d88c9a&fire=d88c9a&currStreakLabel=d88c9a" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munaafifah&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=d88c9a&text_color=c9d1d9" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=munaafifah&custom_title=Contribution%20Graph&bg_color=0D1117&color=d88c9a&line=d88c9a&point=c9d1d9&area_color=0D1117&area=true&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munaafifah&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=d88c9a&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Munaafifah&custom_title=Contribution%20Graph&bg_color=0D1117&color=d88c9a&line=d88c9a&point=c9d1d9&area_color=0D1117&area=true&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=munaafifah&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Munaafifah&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F7C5CC&height=3&width=1000" width="100%"/>
