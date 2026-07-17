@@ -163,13 +163,23 @@ Both push toward the same idea: healthcare tech that's proactive instead of reac
 
 ☕ **Fun fact:** Debugging feels like solving a mystery — except I *caused* the mystery in the first place. 😆
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F7C5CC&height=3&width=1000" width="100%"/>
+
+<div align="center">
+
 ## 📫 Let's Connect!
+
+I'm always up for a chat about health tech, AI, or your next big idea. Don't be a stranger! 💌
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munaafifah)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:munaafifah@graduate.utm.my)
 
-<div align="center">
+<br>
 
 ### ✨ *Let's build something amazing together!* ✨
+
+<br>
+
+**🌸 Thanks so much for stopping by my profile — hope to connect with you soon! 🌸**
 
 </div>
