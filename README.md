@@ -123,12 +123,12 @@ Both push toward the same idea: healthcare tech that's proactive instead of reac
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Munaafifah&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=d88c9a&icon_color=d88c9a&text_color=c9d1d9" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Munaafifah&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=d88c9a&icon_color=d88c9a&text_color=c9d1d9" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Munaafifah&theme=radical&hide_border=true&background=0D1117&ring=d88c9a&fire=d88c9a&currStreakLabel=d88c9a" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munaafifah&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=d88c9a&text_color=c9d1d9" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Munaafifah&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=d88c9a&text_color=c9d1d9" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Munaafifah&custom_title=Contribution%20Graph&bg_color=0D1117&color=d88c9a&line=d88c9a&point=c9d1d9&area_color=0D1117&area=true&hide_border=true" />
 </div>
 
