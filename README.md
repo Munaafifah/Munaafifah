@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7C5CC,100:D88C9A&height=160&section=header&text=Hi,%20I'm%20Muna!%20%F0%9F%8C%B8&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=D88C9A&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Software+Engineering+Student+%F0%9F%8E%93;Cross-Platform+%26+AI+Developer+%F0%9F%A4%96;Building+WellCheck+%F0%9F%A9%BA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=D88C9A&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Software+Engineering+Student+%F0%9F%8E%93;Cross-Platform+%26+AI+Developer+%F0%9F%A4%96;Building+Checkmate.AI+%E2%99%9F%EF%B8%8F" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Munaafifah&color=d88c9a&style=for-the-badge&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-d88c9a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munaafifah)
@@ -20,6 +20,7 @@ I'm a **Software Engineering student at Universiti Teknologi Malaysia (UTM)**, g
 - 💡 Building with **Flutter, Spring Boot, Java, and Python**
 - 🧠 Into **machine learning & AI-assisted diagnostics** — published researcher, twice over!
 - 🩺 Currently proudest of **WellCheck**, my smart health monitoring system (details below 👇)
+- ♟️ Currently building **Checkmate.AI**, an ML + LLM interview-prep tool
 - 🎨 I like my code clean and my UIs cuter than they need to be
 - 🌱 Open to **Full-Stack / Front-End / Back-End** roles from August 2026
 
@@ -29,7 +30,7 @@ I'm a **Software Engineering student at Universiti Teknologi Malaysia (UTM)**, g
 
 ![Graduating](https://img.shields.io/badge/🎓_Graduating-October_2026-F7C5CC?style=for-the-badge&labelColor=3A2A25)
 ![Location](https://img.shields.io/badge/📍_Based_in-Malaysia-F7C5CC?style=for-the-badge&labelColor=3A2A25)
-![Building](https://img.shields.io/badge/🩺_Building-WellCheck-F7C5CC?style=for-the-badge&labelColor=3A2A25)
+![Building](https://img.shields.io/badge/♟️_Building-Checkmate.AI-F7C5CC?style=for-the-badge&labelColor=3A2A25)
 ![Published](https://img.shields.io/badge/📝_Published-2x_Research_Papers-F7C5CC?style=for-the-badge&labelColor=3A2A25)
 ![Open to](https://img.shields.io/badge/🌱_Open_to-Full--Stack_Roles-F7C5CC?style=for-the-badge&labelColor=3A2A25)
 
@@ -65,14 +66,42 @@ I'm a **Software Engineering student at Universiti Teknologi Malaysia (UTM)**, g
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F7C5CC&height=3&width=1000" width="100%"/>
 
+## ♟️ Latest Project — Checkmate.AI
+
+**Checkmate.AI** is an interview-prep tool that turns a resume and a job description into the interview you should actually prepare for. Instead of asking an LLM to *guess* how well you fit a role, it **measures** the fit with an embedding-based ML model first, then uses an LLM to generate questions aimed at your real gaps and strengths.
+
+🔧 **How it's built:**
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![sentence-transformers](https://img.shields.io/badge/sentence--transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logoColor=white)
+
+</div>
+
+- 📄 Upload a resume as a **PDF** (parsed with Apache PDFBox) or paste it as text, alongside a target job description
+- 🧮 A **FastAPI + sentence-transformers** service embeds every resume line and JD requirement, then uses cosine similarity to compute a **0–100 fit score** with matched and missing requirements
+- 🤖 The computed score is fed into the **Groq LLM** prompt as ground truth, which writes a fit summary plus **5 technical questions on gap areas** and **5 behavioral questions on strengths**
+- 🛡️ If the ML service is down, the **Spring Boot** backend degrades gracefully to LLM-only analysis instead of failing
+- 🚧 **Next up:** a mock interview mode where the LLM plays interviewer and gives feedback on your answers, plus tracking weak areas across sessions
+
+> Built partly for my own job search. I get to dogfood it while I build it! 🐶
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F7C5CC&height=3&width=1000" width="100%"/>
+
 ## 🤖 Machine Learning & Research
 
 I'm especially drawn to **AI applied to healthcare** — using models to catch problems earlier and support (not replace) clinical judgment.
 
 - 🧠 **AlzPredict: Neural Network Approach to Early Diagnosis** — *IJIC* — an MLP (multi-layer perceptron) classifier for early Alzheimer's risk detection
 - 🩺 **WellCheck's AI Prediction API** — a Django/Python disease-prediction service that analyzes patient vitals to flag risk and support doctor decisions
+- ♟️ **Checkmate.AI's scoring model** — sentence embeddings + cosine similarity to measure resume-to-job fit, grounding LLM output in a computed score
 
-Both push toward the same idea: healthcare tech that's proactive instead of reactive. 💊
+Both health projects push toward the same idea: healthcare tech that's proactive instead of reactive. 💊
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F7C5CC&height=3&width=1000" width="100%"/>
 
@@ -100,7 +129,9 @@ Both push toward the same idea: healthcare tech that's proactive instead of reac
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **🗄️ Databases & Tools**
 
@@ -116,6 +147,7 @@ Both push toward the same idea: healthcare tech that's proactive instead of reac
 ![RESTful API](https://img.shields.io/badge/RESTful_API-25D366?style=for-the-badge&logo=fastapi&logoColor=white)
 ![WhatsApp Business API](https://img.shields.io/badge/WhatsApp_Business_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Groq API](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logoColor=white)
 
 **🛠️ Dev Tools**
 
